@@ -61,6 +61,9 @@ Explores customer tenure, billing behavior, and churn correlation.
 * Monthly Charges distribution and churn comparison
 * Contract Type vs Billing Type
 
+Insight:
+Customers with shorter tenure and higher monthly bills are more likely to churn. Long-term contract holders exhibit stronger retention and lower churn rates.
+
 4. Revenue Analysis
 
 Explores the distribution of Total Charges across various contract types, internet services, and payment methods.
@@ -71,9 +74,6 @@ Explores the distribution of Total Charges across various contract types, intern
 
 Insight:
 The highest revenue is secured through long-term (Two year) contracts. Revenue is heavily concentrated among customers using high-bandwidth services like Fiber optic and those utilizing electronic or automatic payment methods, suggesting these segments are key drivers of the company's Total Charges.
-
-Insight:
-Customers with shorter tenure and higher monthly bills are more likely to churn. Long-term contract holders exhibit stronger retention and lower churn rates.
 
 Key Insights Summary
 
