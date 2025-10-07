@@ -61,6 +61,17 @@ Explores customer tenure, billing behavior, and churn correlation.
 * Monthly Charges distribution and churn comparison
 * Contract Type vs Billing Type
 
+4. Revenue Analysis
+
+Explores the distribution of Total Charges across various contract types, internet services, and payment methods.
+
+* Revenue by Contract Type: Two year contracts generate the highest Total Charges ($38.96% of the shown total).
+* Revenue by Internet Service (Female Segment): Fiber optic is the dominant internet service, accounting for 62.46% of the Total Charges for female customers.
+* Revenue by Payment Method: The vast majority of revenue is generated through automated/electronic payments: Bank transfer (30.33%), Electronic check (29.69%), and Credit card (29.40%).
+
+Insight:
+The highest revenue is secured through long-term (Two year) contracts. Revenue is heavily concentrated among customers using high-bandwidth services like Fiber optic and those utilizing electronic or automatic payment methods, suggesting these segments are key drivers of the company's Total Charges.
+
 Insight:
 Customers with shorter tenure and higher monthly bills are more likely to churn. Long-term contract holders exhibit stronger retention and lower churn rates.
 
@@ -74,13 +85,3 @@ Key Insights Summary
 
 * Automatic and long-term payment methods reduce churn.
 
-4. Revenue Analysis
-
-Explores the distribution of Total Charges across various contract types, internet services, and payment methods.
-
-* Revenue by Contract Type: Two year contracts generate the highest Total Charges ($38.96% of the shown total).
-* Revenue by Internet Service (Female Segment): Fiber optic is the dominant internet service, accounting for 62.46% of the Total Charges for female customers.
-* Revenue by Payment Method: The vast majority of revenue is generated through automated/electronic payments: Bank transfer (30.33%), Electronic check (29.69%), and Credit card (29.40%).
-
-Insight:
-The highest revenue is secured through long-term (Two year) contracts. Revenue is heavily concentrated among customers using high-bandwidth services like Fiber optic and those utilizing electronic or automatic payment methods, suggesting these segments are key drivers of the company's Total Charges.
